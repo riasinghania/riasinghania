@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riasinghania
-- 👀 I’m interested in ultimate frisbee, java, one-line drawings
-- 🌱 I’m currently learning financial accounting, history of land and labor, coding
+- 👀 I’m interested cooking, Ui/Ux design, and exploring SD
+- 🌱 I’m currently learning International Business and Computer Science at UCSD
 - 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me riasinghania17@gmail.com
 
